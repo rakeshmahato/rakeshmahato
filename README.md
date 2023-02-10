@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
-![Header](banner.png)
 <!--
+![Header](banner.png)
+
 **rakeshmahato/rakeshmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
